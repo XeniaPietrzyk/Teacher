@@ -1,0 +1,50 @@
+character and personality;charakter i osobowość	
+good dobry;grzeczny	
+bad zły;niegrzeczny	
+nice;miły	
+pleasant;sympatyczny	
+unpleasant;niesympatyczny	
+kind;uprzejmy, miły	
+unkind;nieuprzejmy, niemiły	
+helpful;uczynny	
+friendly;przyjazny, życzliwy	
+unfriendly;nieprzyjazny, nieżyczliwy	
+selfish;samolubny	
+nervous;nerwowy, zdenerowany	
+silly;niemądry	
+serious;poważny	
+seriously;poważnie, na serio	
+patient;cierpliwy	
+impatient;niecierpliwy	
+crazy;zwariowany, szalony	
+brave;odważny, śmiały	
+shy;nieśmiały	
+fair;sprawiedliwy, uczciwy	
+unfair;niesprawiedliwy, nieuczciwy	
+proud;dumny	
+time;czas	
+to finish;kończyć się	
+a finish;koniec	
+to start;zaczynać się	
+a start;początek	
+never;nigdy	
+seldom;rzadko	
+sometimes;czasami	
+usually;zazwyczaj	
+often;często	
+always;zawsze	
+next;następny, przyszły	
+last;ostatni, zeszły	
+tomorrow;jutro	
+today;dziś	
+yesterday;wczoraj	
+after;po (jakimś punkcie w czasie)	
+before;przed	
+again;znowu	
+then;potem, następnie	
+now;teraz	
+when;kiedy	
+a night;noc	
+an evening;wieczór	
+an afternoon;popołudnie	
+noon;południe

@@ -1,4 +1,4 @@
-﻿<Page x:Class="Teacher.AddLibraryPage"
+﻿<Page x:Class="Teacher.LearnPage"
       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
@@ -6,9 +6,10 @@
       xmlns:local="clr-namespace:Teacher"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="780"
-      Title="AddLibraryPage">
+      Title="LearnPage">
 
-    <Grid>
-        
+    <Grid Background="White">
+        <Button x:Name="btnLevelA1" Content="A1" HorizontalAlignment="Left" Margin="60,60,0,0" VerticalAlignment="Top" Height="100" Width="100"/>
+
     </Grid>
 </Page>

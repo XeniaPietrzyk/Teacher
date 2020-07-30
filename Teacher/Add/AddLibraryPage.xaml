@@ -1,4 +1,4 @@
-﻿<Page x:Class="Teacher.AddWordPage"
+﻿<Page x:Class="Teacher.AddLibraryPage"
       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
@@ -6,9 +6,9 @@
       xmlns:local="clr-namespace:Teacher"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="780"
-      Title="AddWordPage">
+      Title="AddLibraryPage">
 
-    <Grid>
+    <Grid Background="White">
         
     </Grid>
 </Page>
