@@ -14,11 +14,11 @@ using System.Windows.Shapes;
 namespace Teacher
 {
     /// <summary>
-    /// Interaction logic for Page1.xaml
+    /// Interaction logic for AddLibraryPage.xaml
     /// </summary>
-    public partial class Page1 : Page
+    public partial class AddLibraryPage : Page
     {
-        public Page1()
+        public AddLibraryPage()
         {
             InitializeComponent();
         }

@@ -5,9 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Teacher"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Teacher" Height="450" Width="780">
     <Grid>
-        <Button x:Name="btnLearn" Content="Ucz się" HorizontalAlignment="Left" Height="77" Margin="44,49,0,0" VerticalAlignment="Top" Width="152" Click="btnLearn_Click"/>
-
+        <Frame Name="mainFrame"></Frame>
+        <Button x:Name="btnExit" Content="Wyjdź" HorizontalAlignment="Left" Height="60" Margin="540,300,0,0" VerticalAlignment="Top" Width="180" Click="btnExit_Click"/>
     </Grid>
 </Window>

@@ -23,11 +23,26 @@ namespace Teacher
         public MainWindow()
         {
             InitializeComponent();
+
+            MenuPage menuPage = new MenuPage();
+            mainFrame.NavigationService.Navigate(menuPage);
         }
 
-        private void btnLearn_Click(object sender, RoutedEventArgs e)
+        private void btnExit_Click(object sender, RoutedEventArgs e)
         {
-            
+            this.Close();
         }
+
+        //private void btnLearn_Click(object sender, RoutedEventArgs e)
+        //{
+        //    LearnWindow learnWindow = new LearnWindow();
+        //    learnWindow.Owner = this;
+        //    learnWindow.Show();
+
+        //    //MainFrame.Content = new Page1();
+        //    //MainFrame.Navigate(new Page1());
+        //    //MainFrame.Source = new Uri("https://www.e-ang.pl/nauka.php", UriKind.Absolute);
+        //    //MainFrame.Navigate(new System.Uri("Page1.xaml", UriKind.RelativeOrAbsolute));
+        //}
     }
 }
