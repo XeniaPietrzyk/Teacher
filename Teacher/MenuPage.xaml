@@ -9,6 +9,7 @@
       Title="MenuPage">
 
     <Grid Background="White">
+        <Frame Name="MenuFrame "></Frame>
         <Button x:Name="btnLearn" Content="Ucz się" HorizontalAlignment="Left" Height="145" Margin="60,60,0,0" VerticalAlignment="Top" Width="180" Click="btnLearn_Click"/>
         <Button x:Name="btnAddLibrary" Content="Dodaj bibliotekę" HorizontalAlignment="Left" Height="145" Margin="300,60,0,0" VerticalAlignment="Top" Width="180" Click="btnAddLibrary_Click"/>
         <Button x:Name="btnAddWord" Content="Dodaj słówko" HorizontalAlignment="Left" Height="145" Margin="540,60,0,0" VerticalAlignment="Top" Width="180" Click="btnAddWord_Click"/>

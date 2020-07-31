@@ -10,6 +10,7 @@
 
     <Grid Background="White">
         <Button x:Name="btnLevelA1" Content="A1" HorizontalAlignment="Left" Margin="60,60,0,0" VerticalAlignment="Top" Height="100" Width="100"/>
+        <Button x:Name="btnBack" Content="Wróć" HorizontalAlignment="Left" Height="100" Margin="60,260,0,0" VerticalAlignment="Top" Width="180" Click="btnBack_Click"/>
 
     </Grid>
 </Page>

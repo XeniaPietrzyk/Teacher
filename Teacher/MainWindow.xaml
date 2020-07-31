@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Teacher" Height="450" Width="780">
     <Grid>
-        <Frame Name="mainFrame"></Frame>
+        <Frame Name="mainFrame" NavigationUIVisibility="Hidden"></Frame>
         <Button x:Name="btnExit" Content="Wyjdź" HorizontalAlignment="Left" Height="100" Margin="540,260,0,0" VerticalAlignment="Top" Width="180" Click="btnExit_Click"/>
     </Grid>
 </Window>
