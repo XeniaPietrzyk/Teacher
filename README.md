@@ -1,3 +1,3 @@
 # Teacher (WIP)
-Narzędzie do samodzielnej nauki słówek
+Narzędzie do samodzielnej nauki słówek (WIP)
 
